@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: https://jmlmdev.github.io/
-baseurl: /
+url: "https://jmlmdev.github.io/"
+baseurl: "/"
 title: José Manuel Luque Mendoza
 author: José Manuel Luque Mendoza
 description: Personal blog and resume
