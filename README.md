@@ -1,5 +1,5 @@
 
-# Sustain
+# jmlmdev
 
 [![Build Status](https://secure.travis-ci.org/jekyller/sustain.png?branch=gh-pages)](http://travis-ci.org/jekyller/sustain)
 [![Ruby](https://img.shields.io/badge/ruby-2.4.2-blue.svg?style=flat)](http://travis-ci.org/jekyller/sustain)
@@ -9,9 +9,6 @@ Personal blog built with [Bootstrap](http://getbootstrap.com/), powered by [Jeky
 hosted in [Github pages](https://pages.github.com/).
 
 
-## View the live demo
-
-[Sustain Live Demo](https://jekyller.github.io/sustain)
 
 
 ## Screenshots
